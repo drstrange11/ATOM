@@ -80,6 +80,8 @@ void loop()
    {  
       delay(10); 
       char c = Serial.read(); //Read from the bluetooth module
+      if (c == '#') //Marks end of received message
+          break; 
       voice += c; 
       //Read character by character and append it to form a string
     } 
