@@ -1,7 +1,7 @@
 # ATOM
 Car controlled with voice commands via bluetooth from an android device
 
-Components required (which I used) - 
+# Components required (which I used)  
 
 1. Arduino 
 2. Motor Driver L298N
@@ -10,7 +10,7 @@ Components required (which I used) -
 5. Chassis (4 wheels)
 6. Batteries and wires
 
-Working - 
+# Working 
 
 1. Create / download an app which can connect and send voice messages via bluetooth for arduino from Google Playstore.
 2. Open the app and give the message through the mic in the android device (forward, backward, left, right and stop).
