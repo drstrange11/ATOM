@@ -5,7 +5,7 @@ Car controlled with voice commands via bluetooth from an android device
 
 1. Arduino 
 2. Motor Driver L298N
-3. Bluetooth Module 
+3. HC 05 Bluetooth Module 
 4. Breadboard, if required
 5. Chassis (4 wheels)
 6. Batteries and wires
