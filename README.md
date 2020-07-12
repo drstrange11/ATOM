@@ -1,7 +1,7 @@
 # ATOM
 Car controlled with voice commands via bluetooth from an android device
 
-# Components required (which I used)  
+# Components used 
 
 1. Arduino 
 2. Motor Driver L298N
